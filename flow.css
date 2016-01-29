@@ -1,0 +1,17 @@
+div>div{
+		width: 200px;
+		height: 200px;
+		}
+body{
+		margin:0;
+		padding: 0;
+	}
+.pink{background-color:#ee3e64;
+	position: static;
+		}
+.blue{background-color:#44accf;
+	position:static;
+			}
+.green{background-color:#b7d84b;
+	position: static;
+		}
