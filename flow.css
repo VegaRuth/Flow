@@ -10,7 +10,8 @@ body{
 	position: static;
 		}
 .blue{background-color:#44accf;
-	position:static;
+	position:relative;
+	left: 200px;
 			}
 .green{background-color:#b7d84b;
 	position: static;
