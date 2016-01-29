@@ -1,18 +1,28 @@
 div>div{
 		width: 200px;
 		height: 200px;
-		}
+				}
 body{
 		margin:0;
 		padding: 0;
 	}
 .pink{background-color:#ee3e64;
-	position: static;
+	left:0px ;
+	top: 0px;
+	position: absolute;
 		}
 .blue{background-color:#44accf;
-	position:relative;
-	left: 200px;
+	right: 0px;
+	top: 0px;
+	position: absolute;
 			}
 .green{background-color:#b7d84b;
-	position: static;
+	left:0px ;
+	bottom: 0px;
+	position: absolute;
+		}
+.yellow{background-color:yellow;
+	right: 0px;
+	bottom: 0px;
+	position: absolute;
 		}
